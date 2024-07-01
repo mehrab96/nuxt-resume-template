@@ -1,5 +1,5 @@
 {
-    "My-Experiences" : [
+    "experiences" : [
         {
             "title" : "Learning C++ programming language",
             "date" : "2015-2016",
@@ -21,7 +21,7 @@
             "explanation" : "The business market in WordPress was a very good experience for me, but I didn't feel that it was a new program for me, so with the research I did and again with the suggestion of one of my friends, I started learning Laravel and Start, and because I was familiar with the market, I started designing scripts. I used to do it and sell it as a subscription, and that made me experience exclusive work using Laravel. In order to be a complete programmer (full stack), I continued using one of the javascript frameworks, which was vue js, from the beginning along with Laravel until now."
         }
     ],
-    "My-Education" : [
+    "educations" : [
         {
             "title" : "Mohammad Baqer Sari University",
             "date" : "2015-2016",
