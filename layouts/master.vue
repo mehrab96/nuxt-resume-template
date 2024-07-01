@@ -9,15 +9,79 @@
              before:absolute before:bg-contain before:top-0 before:-right-[9.5rem] before:bg-svgTopHead before:w-full">
              <nav class="h-[4rem] mt-6 pt-3 max-mini:h-[4rem] max-mini:pt-0 z-20 rounded-2xl bg-light/70 items-center grid grid-cols-[repeat(4,auto)] webkit-inline-box
              gap-8 max-mini:gap-2 justify-center">
-                <a class="activeUrl z-10 max-minixl:px-4 max-mini:px-5 max-md:px-6 max-sm:text-xs text-primary-active max-lg:px-8 max-xl:px-6 px-9 h-10 grid items-center text-sm" href="./index.html">About me</a>
-                <a class="z-10 max-minixl:px-4 max-mini:px-5 max-md:px-6 max-sm:text-xs text-primary-active max-lg:px-8 max-xl:px-6 px-9 h-10 grid items-center text-sm" href="./resume.html">Resume</a>
-                <a class="z-10 max-minixl:px-4 max-mini:px-5 max-md:px-6 max-sm:text-xs text-primary-active max-lg:px-8 max-xl:px-6 px-9 h-10 grid items-center text-sm" href="./work-samples.html">Work samples</a>
-                <a class="z-10 max-minixl:px-4 max-mini:px-5 max-md:px-6 max-sm:text-xs text-primary-active max-lg:px-8 max-xl:px-6 px-9 h-10 grid items-center text-sm" href="./contact-us.html">Contact me</a>
+                <NuxtLink class="activeUrl z-10 max-minixl:px-4 max-mini:px-5 max-md:px-6 max-sm:text-xs text-primary-active max-lg:px-8 max-xl:px-6 px-9 h-10 grid items-center text-sm" to="/">About me</NuxtLink>
+                <NuxtLink class="z-10 max-minixl:px-4 max-mini:px-5 max-md:px-6 max-sm:text-xs text-primary-active max-lg:px-8 max-xl:px-6 px-9 h-10 grid items-center text-sm" to="/resume">Resume</NuxtLink>
+                <NuxtLink class="z-10 max-minixl:px-4 max-mini:px-5 max-md:px-6 max-sm:text-xs text-primary-active max-lg:px-8 max-xl:px-6 px-9 h-10 grid items-center text-sm" to="/work-samples">Work samples</NuxtLink>
+                <NuxtLink class="z-10 max-minixl:px-4 max-mini:px-5 max-md:px-6 max-sm:text-xs text-primary-active max-lg:px-8 max-xl:px-6 px-9 h-10 grid items-center text-sm" to="/contact-us">Contact me</NuxtLink>
             </nav>
         </div>
 
         </div>
         <div class="grid grid-cols-[26rem_1fr] max-mini:grid-cols-1 max-mini:pt-0 max-lg:grid-cols-1 max-xl:grid-cols-[19rem_1fr] gap-10 max-xl:gap-4 px-6 relative pt-10">
+            <div class="rounded-3xl z-20 max-lg:mt-8">
+                <div class="bg-white sticky top-0 px-6 max-xl:px-2 rounded-3xl py-10">
+                    <figure class="w-44 h-44 overflow-hidden m-auto rounded-[1.5rem]">
+                        <img src="/images/MehrabEsmailnia.jpeg" class="w-full h-full object-cover" alt="">
+                    </figure>
+                    <h1 class="text-center text-primary-active p-4 font-black text-xl">MehrabEsmailnia</h1>
+                    <div class="text-[.82rem] font-light text-center grid justify-center">
+                        <span class="bg-[#f6f6f6] text-primary-active rounded-xl py-3 px-8">Web Developer</span>
+                    </div>
+                    <div class="bg-light mt-6 rounded-3xl">
+                        <div class="grid grid-cols-[repeat(4,auto)] px-10 gap-4 justify-center h-20 items-center">
+                            <a href="https://t.me/programmer_meh" target="_blank" class="bg-primary-active w-8 h-8 rounded-[.5rem] grid items-center justify-center">
+                                <i
+                                class=
+                                "fi fi-brands-telegram text-white flex"
+                                ></i>
+                            </a>
+                            <a href="https://github.com/mehrab96" target="_blank" class="bg-primary-active w-8 h-8 rounded-[.5rem] grid items-center justify-center "><i
+                                class=
+                                "fi fi-brands-github text-white flex"
+                                ></i></a>
+                            <a href="https://wa.me/+989112176238" target="_blank" class="bg-primary-active w-8 h-8 rounded-[.5rem] grid items-center justify-center "><i
+                                class=
+                                "fi fi-brands-whatsapp text-white flex"
+                                ></i></a>
+                            <a href="https://www.instagram.com/m.mehrab76" target="_blank" class="bg-primary-active w-8 h-8 rounded-[.5rem] grid items-center justify-center "><i
+                                class=
+                                "fi fi-brands-instagram text-white flex"
+                                ></i></a>
+                        </div>
+                        <ul class="px-10 max-xl:px-6 grid gap-2 text-md font-light text-primary-active">
+                            <li class="grid truncate gap-2 h-8 justify-start items-center grid-cols-[auto_auto]">
+                                <div class="grid items-center">
+                                    <i class="fi fi-rr-calendar-lines text-xl flex"></i>
+                                </div>
+                                <span>1997/12/20</span>
+                            </li>
+                            <li class="grid gap-2 h-8 justify-start items-center grid-cols-[auto_auto]">
+                                <div class="grid items-center">
+                                    <i class="fi fi-rr-visit flex text-xl"></i>
+                                </div>
+                                <span>Babol, Mazandaran, Iran</span>
+                            </li>
+                            <li class="grid gap-2 h-8 justify-start items-center grid-cols-[auto_auto]">
+                                <div class="grid items-center">
+                                    <i class="fi fi-rr-envelope flex text-xl"></i>
+                                </div>
+                                <span>mehrabesmailnia96[@]gmail.com</span>
+                            </li>
+                            <li class="grid gap-2 h-8 justify-start items-center grid-cols-[auto_auto]">
+                                <div class="grid items-center">
+                                    <i class="fi fi-rr-phone-call flex text-xl"></i>
+                                </div>
+                                <span>+980112176238</span>
+                            </li>
+                        </ul>
+                        <div class="grid justify-center py-5">
+                            <a href="./images/MehrabEsmailnia.pdf" download class="bg-primary-active text-sm text-light font-semibold shadow-xl shadow-primary-medium/40 px-12 rounded-full py-3">
+                                <span>Download resume</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
            <slot></slot>
         </div>
     </div>
