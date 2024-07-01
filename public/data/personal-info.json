@@ -1,0 +1,38 @@
+{
+    "information" : {
+        "profile" : "/images/MehrabEsmailnia.jpeg",
+        "fullname" : "Mehrab Esmailnia",
+        "jobTitle" : "Web Developer",
+        "birthday" : "20 December 1997",
+        "Location" : "Iran",
+        "email" : "mehrabesmailnia96[at]gmail[dot]com",
+        "phone" : "+980112176238"
+    },
+    "socialMedia" : [
+        {
+            "name" : "telegram",
+            "url" : "https://t.me/programmer_meh",
+            "icon" : "fi-brands-telegram"
+        },
+        {
+            "name" : "github",
+            "url" : "https://github.com/mehrab96",
+            "icon" : "fi-brands-github"
+        },
+        {
+            "name" : "whatsApp",
+            "url" : "https://wa.me/+989112176238",
+            "icon" : "fi-brands-whatsapp"
+        },
+        {
+            "name" : "instagram",
+            "url" : "https://www.instagram.com/m.mehrab76",
+            "icon" : "fi-brands-instagram"
+        },
+        {
+            "name" : "youtube",
+            "url" : "www.youtube.com/@lordinetacademy",
+            "icon" : "fi-brands-youtube"
+        }
+    ]
+}
