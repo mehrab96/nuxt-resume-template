@@ -1,0 +1,41 @@
+{
+    "My-Experiences" : [
+        {
+            "title" : "Learning C++ programming language",
+            "date" : "2015-2016",
+            "explanation" : "My first programming experience was in the DOS environment with C++ language, which I think was a suitable option for learning programming logic, but after several months of practice, I decided to leave the DOS environment and experience Visual Basic."
+        },
+        {
+            "title" : "C# programming language",
+            "date" : "2016-2017",
+            "explanation" : "After the experience of working with Visual Basic, I decided to use C# to deliver my university project, and this made me go with C# for almost a year."
+        },
+        {
+            "title" : "Wordpress",
+            "date" : "2018-2020",
+            "explanation" : "After working with C# for a while, I didn' t know much about its business and I couldn't send the projects I was working on. I started learning php with the suggestion of one of my classmates who was familiar with web business. I learned WordPress, entered the job market very quickly and was designing templates and selling subscriptions on websites. After a while, because I was very fond of learning and teaching, I first taught HTML, CSS, and WordPress in one of the schools in my city."
+        },
+        {
+            "title" : "Laravel",
+            "date" : "2020-2024",
+            "explanation" : "The business market in WordPress was a very good experience for me, but I didn't feel that it was a new program for me, so with the research I did and again with the suggestion of one of my friends, I started learning Laravel and Start, and because I was familiar with the market, I started designing scripts. I used to do it and sell it as a subscription, and that made me experience exclusive work using Laravel. In order to be a complete programmer (full stack), I continued using one of the javascript frameworks, which was vue js, from the beginning along with Laravel until now."
+        }
+    ],
+    "My-Education" : [
+        {
+            "title" : "Mohammad Baqer Sari University",
+            "date" : "2015-2016",
+            "explanation" : "Studying in associate degree, software engineering field and starting programming activities"
+        },
+        {
+            "title" : "Tabari University",
+            "date" : "2017-2019",
+            "explanation" : "Studying in the bachelor's degree in software engineering and starting to work in the web field (designing WordPress templates)."
+        },
+        {
+            "title" : "Tabari University",
+            "date" : "2020-2024",
+            "explanation" : "Studying for a master's degree in software engineering and continuing to work in the field of websites, designing and developing Lordint's website and online training in the field of web."
+        }
+    ]
+}
