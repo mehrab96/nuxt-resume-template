@@ -1,0 +1,28 @@
+{
+    "workSamples" : [
+        {
+            "id" : 1,
+            "title" : "Lorditheme",
+            "slug" : "Lorditheme",
+            "description" : "Lorditheme description",
+            "body" : "Lorditheme body",
+            "image" : "/images/work-samples/lorditheme-min.png"
+        },
+        {
+            "id" : 2,
+            "title" : "Dehestaan",
+            "slug" : "Dehestaan",
+            "description" : "Dehestaan description",
+            "body" : "Dehestaan body",
+            "image" : "/images/work-samples/dehestaan.png"
+        },
+        {
+            "id" : 3,
+            "title" : "Lordinet",
+            "slug" : "Lordinet",
+            "description" : "Lordinet description",
+            "body" : "Lordinet body",
+            "image" : "/images/work-samples/lordinet.png"
+        }
+    ]
+}
