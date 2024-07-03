@@ -6,6 +6,11 @@ $fetch('/data/resume.json').then(res => {
     educations.value = res.educations;
 });
 
+useHead({
+  title: 'Mehrab Esmailnia Experiences and Educations',
+  meta: [
+    { name: 'description', content: 'I am a senior software engineer specializing in Laravel and Nuxt.js. Over the past five years, I have developed robust backend applications using Laravel and high-performance, server-side rendered frontend applications with Nuxt.js. Additionally, I have extensive experience building intuitive admin panels with Laravel and Vue.js, enhancing the management of complex systems' }
+]});
 
 </script>
 
