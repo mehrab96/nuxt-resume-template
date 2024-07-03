@@ -52,7 +52,7 @@ $fetch('/data/personal-info.json').then(res => {
                     </li>
                 </ul>
                 <div class="grid justify-center py-5">
-                    <a href="./images/MehrabEsmailnia.pdf" download class="bg-primary-active text-sm text-light font-semibold shadow-xl shadow-primary-medium/40 px-12 rounded-full py-3">
+                    <a :href="personal.fileResume" download="MehrabEsmailnia" class="bg-primary-active text-sm text-light font-semibold shadow-xl shadow-primary-medium/40 px-12 rounded-full py-3">
                         <span>Download resume</span>
                     </a>
                 </div>
