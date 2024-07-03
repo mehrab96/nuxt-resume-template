@@ -12,7 +12,7 @@
                 <NuxtLink :class="{'activeUrl' : $route.name == 'index'}" class="z-10 max-minixl:px-4 max-mini:px-5 max-md:px-6 max-sm:text-xs text-primary-active max-lg:px-8 max-xl:px-6 px-9 h-10 grid items-center text-sm" to="/">About me</NuxtLink>
                 <NuxtLink class="z-10 max-minixl:px-4 max-mini:px-5 max-md:px-6 max-sm:text-xs text-primary-active max-lg:px-8 max-xl:px-6 px-9 h-10 grid items-center text-sm" :class="{'activeUrl' : $route.name == 'resume'}" to="/resume">Resume</NuxtLink>
                 <NuxtLink class="z-10 max-minixl:px-4 max-mini:px-5 max-md:px-6 max-sm:text-xs text-primary-active max-lg:px-8 max-xl:px-6 px-9 h-10 grid items-center text-sm" :class="{'activeUrl' : $route.name == 'work-samples'}" to="/work-samples">Work samples</NuxtLink>
-                <NuxtLink class="z-10 max-minixl:px-4 max-mini:px-5 max-md:px-6 max-sm:text-xs text-primary-active max-lg:px-8 max-xl:px-6 px-9 h-10 grid items-center text-sm" :class="{'activeUrl' : $route.name == 'contact-us'}" to="/contact-us">Contact me</NuxtLink>
+                <NuxtLink class="z-10 max-minixl:px-4 max-mini:px-5 max-md:px-6 max-sm:text-xs text-primary-active max-lg:px-8 max-xl:px-6 px-9 h-10 grid items-center text-sm" :class="{'activeUrl' : $route.name == 'contact-me'}" to="/contact-me">Contact me</NuxtLink>
             </nav>
         </div>
 
