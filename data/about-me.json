@@ -1,0 +1,56 @@
+{
+    "bio" : "I am a senior software engineering expert with a strong foundation in various programming languages and web development frameworks. Over the past five years, I have specialized in using Laravel for backend development and Nuxt.js for frontend development. My expertise in Laravel has allowed me to build robust, scalable web applications, while my proficiency in Nuxt.js has enabled me to create highly performant, server-side rendered applications. Additionally, I have extensive experience in building admin panels using Laravel and Vue.js, creating intuitive and efficient interfaces for managing complex systems.",
+    "fieldActivity" : [
+        {
+            "title" : "Web developer",
+            "explanation" : "Full stack website implementation (spa, mpa)",
+            "image" : "/images/layers.png"
+        },
+        {
+            "title" : "Back-end developer",
+            "explanation" : "Service implementation for different platforms (Android, iOS, Windows, web application)",
+            "image" : "/images/api.png"
+        },
+        {
+            "title" : "Front-end developer",
+            "explanation" : "Using JavaScript framework to develop applications (ssr, spa)",
+            "image" : "/images/web-design.png"
+        },
+        {
+            "title" : "SEO specialist",
+            "explanation" : "Activities to improve ranking and receive organic traffic in search engine results",
+            "image" : "/images/seo.png"
+        }
+    ],
+    "skills" : [
+        {
+            "title" : "Laravel",
+            "percent" : "90"
+        },
+        {
+            "title" : "Vue js",
+            "percent" : "90"
+        },
+        {
+            "title" : "NuxtJs",
+            "percent" : "80"
+        },
+        {
+            "title" : "NodeJs",
+            "percent" : "60"
+        },
+        {
+            "title" : "TailwindCss",
+            "percent" : "90"
+        },
+        {
+            "title" : "MongoDB",
+            "percent" : "60"
+        },
+        {
+            "title" : "Git and Github",
+            "percent" : "70"
+        }
+    ]
+
+}
