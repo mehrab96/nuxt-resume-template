@@ -13,7 +13,7 @@ $fetch('/data/personal-info.json').then(res => {
     <div class="rounded-3xl z-20 max-lg:mt-8">
         <div class="bg-white sticky top-0 px-6 max-xl:px-2 rounded-3xl py-10">
             <figure class="w-44 h-44 overflow-hidden m-auto rounded-[1.5rem]">
-                <img src="/images/MehrabEsmailnia.jpeg" class="w-full h-full object-cover" alt="">
+                <img src="/images/MehrabEsmailnia.jpeg" class="w-full h-full object-cover" alt="Mehrab Esmailnia">
             </figure>
             <h1 class="text-center text-primary-active p-4 font-black text-xl">{{personal.fullname}}</h1>
             <div class="text-[.82rem] font-light text-center grid justify-center">
