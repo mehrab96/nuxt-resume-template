@@ -9,7 +9,11 @@
              before:absolute before:bg-contain before:top-0 before:-right-[9.5rem] before:bg-svgTopHead before:w-full">
              <NavBar></NavBar>
         </div>
-
+        <div class="-mt-16">
+            <figure class="h-12 mr-20">
+                <img class="w-full h-full object-contain" src="/images/MehrabEsmailniaLogo.png" alt="Mehrab Esmailnia Logo">
+            </figure>
+        </div>
         </div>
         <div class="grid grid-cols-[26rem_1fr] max-mini:grid-cols-1 max-mini:pt-0 max-lg:grid-cols-1 max-xl:grid-cols-[19rem_1fr] gap-10 max-xl:gap-4 px-6 relative pt-10">
            <Sidebar></Sidebar>
