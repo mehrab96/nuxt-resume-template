@@ -1,5 +1,5 @@
 # Nuxt dev/build outputs
-.output/nitro.json
+.output
 .data
 .nuxt
 .nitro
