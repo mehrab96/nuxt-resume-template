@@ -1,24 +1,24 @@
 {
     "experiences" : [
         {
-            "title" : "Learning C++ programming language",
-            "date" : "2015-2016",
-            "explanation" : "My first programming experience was in the DOS environment with C++ language, which I think was a suitable option for learning programming logic, but after several months of practice, I decided to leave the DOS environment and experience Visual Basic."
+            "title" : "Lorditheme Startup",
+            "date" : "Senior Frontend Developer (Nuxt.js) (February 2021)",
+            "explanation" : "Designed and Implemented E-Commerce Platform Successfully designed and implemented a robust e-commerce platform for web products, specializing in the sale of web templates and scripts. This platform has enhanced the company's market presence and streamlined online sales processes."
         },
         {
-            "title" : "C# programming language",
-            "date" : "2016-2017",
-            "explanation" : "After the experience of working with Visual Basic, I decided to use C# to deliver my university project, and this made me go with C# for almost a year."
+            "title" : "Dehestaan",
+            "date" : "Full-stack web Developer (January 2024 - June 2024)",
+            "explanation" : "As the lead web developer at Dehestaan, I was responsible for designing and developing a comprehensive e-commerce platform focused on local agricultural products. I utilized modern technologies such as HTML, CSS, and JavaScript, ensuring the site was optimized for both user experience and search engine visibility. I implemented a content management system that allowed for easy content updates by the team and worked closely with designers to create an engaging and user-friendly interface. Additionally, I conducted thorough testing and debugging to ensure the site’s performance and security were top-notch."
         },
         {
-            "title" : "Wordpress",
-            "date" : "2018-2020",
-            "explanation" : "After working with C# for a while, I didn' t know much about its business and I couldn't send the projects I was working on. I started learning php with the suggestion of one of my classmates who was familiar with web business. I learned WordPress, entered the job market very quickly and was designing templates and selling subscriptions on websites. After a while, because I was very fond of learning and teaching, I first taught HTML, CSS, and WordPress in one of the schools in my city."
+            "title" : "Lordinet Startup",
+            "date" : "Founder - Full-stack Developer (December 2019 - November 2023)",
+            "explanation" : "I have successfully designed and implemented an e-learning platform using Laravel and Vue.js technologies. The project aimed to provide an online education platform with a user-friendly interface and robust admin panel."
         },
         {
-            "title" : "Laravel",
-            "date" : "2020-2024",
-            "explanation" : "The business market in WordPress was a very good experience for me, but I didn't feel that it was a new program for me, so with the research I did and again with the suggestion of one of my friends, I started learning Laravel and Start, and because I was familiar with the market, I started designing scripts. I used to do it and sell it as a subscription, and that made me experience exclusive work using Laravel. In order to be a complete programmer (full stack), I continued using one of the javascript frameworks, which was vue js, from the beginning along with Laravel until now."
+            "title" : "Gam Academy",
+            "date" : "Teacher - web developer (2017 - 2021)",
+            "explanation" : "5+ years of teaching experience • implemented HTML, CSS, and VueJs courses • proposed and implemented teaching methods • Successfully integrated HTML , CSS , VueJs into the institute's curriculum • had over 100 Students • positive responses on intuitive teaching methods and impactful courses website: gamacademy.ir"
         }
     ],
     "educations" : [
